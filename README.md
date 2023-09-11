@@ -18,6 +18,9 @@
 
 > **YOLO format**  
 > &lt;object-class&gt; &lt;x-center&gt; &lt;y-centers&gt; &lt;width&gt; &lt;height&gt;  
+> 
+> (example)  
+> 0 0.518669 0.487043 0.858766 0.910989
 
 ### Usage
 
