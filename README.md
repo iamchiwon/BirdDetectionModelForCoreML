@@ -79,4 +79,8 @@
 
 ![training](./docs/createml-2.png)
 
-4. 
+4. Model
+
+- `Get` 버튼을 눌러 mlmodel 파일 저장
+
+![Get](./docs/download-3.png)
